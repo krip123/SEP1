@@ -1,0 +1,69 @@
+#navb {
+    list-style-type: none;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+	background-color: #5cb227;
+    height: 186px;
+ }
+ 
+ li{
+	 float: left;
+ }
+ 
+ li a {
+	 display: inline-block;
+	 color: red;
+	 padding: 70px 160px;
+	 text-decoration: none;
+     font-size: 40px;
+	 }
+	 
+li a:hover {
+	background-color: #78f22e;
+}
+
+div {
+    
+    float: left;
+    height: 20ex;
+    width: 100%;
+}
+ 
+#image {
+    height: 500px;
+    width: 40%;
+    float: left;
+    }
+
+#logo {
+    float: left;
+    
+}
+
+ul.a {
+    float: left;
+}
+
+ul.b {
+    float: left;
+    clear: left;
+}
+
+ul.a li{
+    float: none;
+}
+
+ul.b li {
+    float: none; 
+}
+
+p {
+    float: left;
+    width: 50%;
+    clear: left;
+}
+
+footer {
+    clear: both;
+}
